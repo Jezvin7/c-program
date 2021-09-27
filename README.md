@@ -1,2 +1,2 @@
-# c-program
+# c++-program
  some simple programsin c++ 
